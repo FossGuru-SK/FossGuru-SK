@@ -1,26 +1,30 @@
-- 👋 Hi all, I’m Sujit and working as a Reliability Engineer for [Mercedes-Benz Tech Innovation](https://www.mercedes-benz-techinnovation.com/en)
+- 👋 Hi all, I’m Sujit and working as a Senior Software Consultant for Multi-National Company.
 - 👀 I’m interested in sustainable code solutions and new things to learn about a sustainable environment for all of us.
 - 🌱 I’m currently learning contributing to FOSS with GitHub and ArgoCD in the [Eclipse Tractus-X Environment][Eclipse-Tractus-X-Link].
 - 📫 How to reach [me](#-get-in-touch)
 
 ### 🛠 Languages, Plattform and Tools:
 
-![GitHub][GitHub-badge]&nbsp;
 ![Java](https://img.shields.io/badge/Java-007396?logo=java)&nbsp;
-![GitHub-Action][GitHub-Action-badge]&nbsp;
-![GoLand][GoLand-badge]&nbsp;
-![Kubernetes][Kubernetes-badge]&nbsp;
-![Markdown][Markdown-badge]&nbsp;
-![Elastic][Elastic-badge]&nbsp;
-![Git][Git-badge]&nbsp;
-![Azure][Azure-badge]&nbsp;
-![Helm][Helm-badge]&nbsp;
-![ArgoCD][ArgoCD-badge]&nbsp;
-![Linux][Linux-badge]&nbsp;
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin)&nbsp;
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring-boot)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)&nbsp;
+![Docusaurus](https://img.shields.io/badge/Docusaurus-2A6E81?logo=docusaurus)&nbsp;
+![React](https://img.shields.io/badge/React-61DAFB?logo=react)&nbsp;
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes)&nbsp;
+![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown)&nbsp;
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure)&nbsp;
+![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm)&nbsp;
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?logo=argo)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux)&nbsp;
 
 ### 🏅Badges
 
-[![eclipse-foundation-committer-badge](https://github.com/FaGru3n/FaGru3n/assets/121097161/ec8d621c-580b-4d97-a582-3aaddd6bc0a4)](https://accounts.eclipse.org/users/sujitmbrdi)
+[![image](https://github.com/user-attachments/assets/99aa07c7-50cf-4904-b008-7b54a0c283e5)](https://accounts.eclipse.org/users/sujitmbrdi)
+
 
 
 ### 📝 Waka Time
@@ -28,7 +32,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2024 - To: 31 December 2024
+From: 2 Jan 2025 - To: 31 December 2025
 
 No activity tracked
 ```
@@ -37,13 +41,13 @@ No activity tracked
 
 ### 🤝🏻 Get in touch:
 
-[![GitHub-shield][GitHub-badge]][GitHub-Issue-link]
-[![linkedin-shield][LinkedIn-shield]][LinkedIn-link]
+[![GitHub-shield][GitHub-badge]](https://github.com/FossGuru-SK)
+[![linkedin-shield][LinkedIn-shield]](https://www.linkedin.com/in/sujit-karne-9671b076/)
 
 ![][Profile-Counter]
 <!--- Links --->
-[LinkedIn-link]:   https://www.linkedin.com/in/fabian-gr%C3%BCn-b61b28251/
-[GitHub-Issue-link]: https://github.com/FaGru3n/like-otters/issues/new/choose
+[LinkedIn-link]:   https://www.linkedin.com/in/sujit-karne-9671b076/
+[GitHub-Issue-link]: https://github.com/FossGuru-SK
 [LinkedIn-shield]: https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=black
 [Git-badge]: https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=black
 [GitHub-badge]: https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white
@@ -57,4 +61,4 @@ No activity tracked
 [Kubernetes-badge]: https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white
 [Helm-badge]: https://img.shields.io/badge/Helm-0F1689.svg?style=for-the-badge&logo=Helm&logoColor=white
 [Eclipse-Tractus-X-Link]: https://eclipse-tractusx.github.io/
-[Profile-Counter]: https://komarev.com/ghpvc/?username=fagru3n&style=for-the-badge&label=profile+view+counter
+[Profile-Counter]: https://komarev.com/ghpvc/?username=FossGuru-SK&style=for-the-badge&label=profile+view+counter
