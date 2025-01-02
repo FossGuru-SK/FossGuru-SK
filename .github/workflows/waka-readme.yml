@@ -1,0 +1,29 @@
+name: Waka Readme
+
+on:
+  workflow_dispatch: # for manual workflow trigger
+  schedule:
+    - cron: "0 0 * * *" # runs at every end of the day
+
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          #REPOSITORY: FossGuru-SK/FossGuru-SK
+          # following flags are required, only if this is not on
+          #GH_TOKEN: ${{ secrets.WAKA_GH_TOKEN }}
+          # meta
+          API_BASE_URL: https://wakatime.com/api
+          # profile readme content
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          BLOCKS: ░▒▓█
+          TIME_RANGE: last_7_days
+          SHOW_TIME: true
+          SHOW_TOTAL: false
+          SHOW_MASKED_TIME: false
